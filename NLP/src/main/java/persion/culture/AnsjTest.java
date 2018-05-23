@@ -16,7 +16,7 @@ import org.nlpcn.commons.lang.tire.library.Library;
 import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 public class AnsjTest {
 	public static void test() {
-		// 只关注这些词性的词 15350111
+		// 我是修改后的代码 只关注这些词性的词 15350111
 		Set<String> expectedNature = new HashSet<String>() {
 			{
 				add("n");
