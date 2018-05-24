@@ -17,7 +17,7 @@ import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 public class AnsjTest {
 	public static void test() {
 		// 我是修改后的代码111123 只关注这些词性的词 15350111 matter修改1v 分之修改了1
-		
+		//hah
 		Set<String> expectedNature = new HashSet<String>() {
 			{
 				add("n");
